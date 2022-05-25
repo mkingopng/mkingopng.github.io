@@ -2,7 +2,7 @@
 
 ---
 
-### End to End Projects
+### Projects
 
 [Palm Olein & Edible Oils](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -12,15 +12,8 @@
 <img src="images/kaggle_feedback_prize.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Pawpularity]([http://example.com/](https://www.kaggle.com/competitions/petfinder-pawpularity-score))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Kaggle Competition
-
-[Feedback Prize](/sample_page)
-<img src="images/kaggle_feedback_prize"/>
 
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
