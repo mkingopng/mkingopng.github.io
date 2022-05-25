@@ -5,7 +5,7 @@
 ### Projects
 
 [Palm Olein & Edible Oils](/sample_page)
-<img src="images/palm-oil..jpg?raw=true"/>
+<img src="images/palm-oil.jpg?raw=true"/>
 
 ---
 [Feedback Prize](/sample_page)
