@@ -15,9 +15,26 @@
 [Pawpularity](https://www.kaggle.com/competitions/petfinder-pawpularity-score)
 <img src="images/petfinder.jpg?raw=true"/>
 
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+---
+[Tokyo Market Prediction](http://example.com/)
 
 ---
+[Predictive Maintenance](http://example.com/)
+
+---
+[Energy Market Forecasting](http://example.com/)
+
+---
+[Vision](http://example.com/)
+
+---
+[NLP](http://example.com/)
+
+---
+[Framington](http://example.com/)
+
+---
+[time series](http://example.com/)
+
+---
+[recommender system](http://example.com/)
