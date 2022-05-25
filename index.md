@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### The Palm Olein Market 
 
 [Palm Olein & Edible Oils](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
