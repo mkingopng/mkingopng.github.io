@@ -13,7 +13,7 @@
 
 ---
 [Pawpularity]([http://example.com/](https://www.kaggle.com/competitions/petfinder-pawpularity-score))
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/petfinder.jpg?raw=true"/>
 
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
