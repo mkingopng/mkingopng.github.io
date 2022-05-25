@@ -19,7 +19,9 @@
 
 ### Kaggle Competition
 
-- [Project 1 Title](http://example.com/)
+[Feedback Prize]([https://www.kaggle.com/competitions/feedback-prize-2021])
+<img src="images/kaggle_feedback_prize"/>
+
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
