@@ -6,7 +6,7 @@
 
 [Palm Olein & Edible Oils]
 
-<a href="https://github.com/mkingopng/palm_olein">View My LinkedIn Profile</a> 
+<a href="https://github.com/mkingopng/palm_olein">View My Project Repo</a> 
 
 <img src="images/palm-oil.jpg?raw=true"/>
 
