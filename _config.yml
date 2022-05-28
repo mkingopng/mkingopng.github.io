@@ -4,12 +4,13 @@ description: > # your text below (remove <br> elements if you don't need line br
   <b>Data Science Portfolio<b>
   <ul>
     <li>Analysis of the Palm Olein and Vegetable oil global market</li>
-    <li></li>
-    <li></li>
+    <li></li> Predictive Maintenance
+    <li></li> Analysis of Heart Disease Risk factors
   <br><br>
+  
   <b>Kaggle Competitions<b>
   <ul>
-    <li>Petfinder.my Pawpularity contest (top 8%, broze medal)</li>
+    <li>Petfinder.my Pawpularity contest (top 8%, bronze medal)</li>
     <li>NBME - Score Clinical Patient Notes (top 26%)</li>
     <li>Feedback Prize: evaluating student writing (top 28%)</li>
   <br><br>
