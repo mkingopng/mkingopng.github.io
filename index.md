@@ -4,12 +4,14 @@
 
 ### Projects
 
-[Palm Olein & Edible Oils]
+**Palm Olein & Edible Oils**
 
-<a href="https://github.com/mkingopng/palm_olein">View My Project Repo</a> 
+<a href="https://github.com/mkingopng/palm_olein">View the Project Repo</a> 
 
 <img src="images/palm-oil.jpg?raw=true"/>
 
+
+**Predictive Maintenance**
 
 ## Kaggle
 
