@@ -4,34 +4,34 @@
 
 ### Projects
 
-[# Palm Olein & Edible Oils](/sample_page)
+[Palm Olein & Edible Oils]([(https://github.com/mkingopng/palm_olein)
 <img src="images/palm-oil.jpg?raw=true"/>
 
 ---
-[# Feedback Prize](/sample_page)
+[# Feedback Prize](/https://github.com/mkingopng/feedback_prize_pytorch)
 <img src="images/kaggle_feedback_prize.png"/>
 
 ---
-[# Pawpularity](https://www.kaggle.com/competitions/petfinder-pawpularity-score)
+[Pawpularity](https://www.kaggle.com/competitions/petfinder-pawpularity-score)
 <img src="images/petfinder.jpg?raw=true"/>
 
 ---
-[# Tokyo Market Prediction](http://example.com/)
+[Tokyo Market Prediction](http://example.com/)
 
 ---
-[# Predictive Maintenance](http://example.com/)
+[Predictive Maintenance](http://example.com/)
 
 ---
-[# Energy Market Forecasting](http://example.com/)
+[Energy Market Forecasting](http://example.com/)
 
 ---
-[# Vision](http://example.com/)
+[Vision](http://example.com/)
 
 ---
-[# NLP](http://example.com/)
+[NLP](http://example.com/)
 
 ---
-[# Framington](http://example.com/)
+[Framington](http://example.com/)
 
 ---
 [# time series](http://example.com/)
