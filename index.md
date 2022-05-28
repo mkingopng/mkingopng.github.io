@@ -4,11 +4,14 @@
 
 ### Projects
 
-[Palm Olein & Edible Oils]([(https://github.com/mkingopng/palm_olein)
+[Palm Olein & Edible Oils]
+
+<a href="https://github.com/mkingopng/palm_olein"
+
 <img src="images/palm-oil.jpg?raw=true"/>
 
 ---
-[# Feedback Prize](/https://github.com/mkingopng/feedback_prize_pytorch)
+[Feedback Prize](/https://github.com/mkingopng/feedback_prize_pytorch)
 <img src="images/kaggle_feedback_prize.png"/>
 
 ---
@@ -34,7 +37,7 @@
 [Framington](http://example.com/)
 
 ---
-[# time series](http://example.com/)
+[Time series](http://example.com/)
 
 ---
-[# recommender system](http://example.com/)
+[Recommender system](http://example.com/)
