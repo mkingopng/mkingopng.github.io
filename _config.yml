@@ -7,7 +7,8 @@ description: > # your text below (remove <br> elements if you don't need line br
     <li></li>
     <li></li>
   <br><br>
-  Kaggle Competitions
+  <b>Kaggle Competitions<b>
+  <ul>
     <li>Petfinder.my Pawpularity contest (top 8%, broze medal)</li>
     <li>NBME - Score Clinical Patient Notes (top 26%)</li>
     <li>Feedback Prize: evaluating student writing (top 28%)</li>
