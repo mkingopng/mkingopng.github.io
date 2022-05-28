@@ -10,6 +10,12 @@
 
 <img src="images/palm-oil.jpg?raw=true"/>
 
+
+## Kaggle
+
+---
+
+### Competitions
 ---
 [Feedback Prize](/https://github.com/mkingopng/feedback_prize_pytorch)
 <img src="images/kaggle_feedback_prize.png"/>
